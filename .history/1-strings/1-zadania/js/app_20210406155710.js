@@ -48,28 +48,12 @@
 // ------------------------------------------------------------------------------------------
 // ZADANIE 5
 
-// let min = 10;
-// let max = 100000;
+let min = 10;
+let max = 100000;
 
-// const numbers = Math.floor(Math.random() * (max - min + 1) + min);
-
-// console.log(numbers.toString().padStart(10, "."));
+const numbers = Math.floor(Math.random() * (max - min + 1) + min);
 
 
-// ------------------------------------------------------------------------------------------
-// ZADANIE 6 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! jak zrobić to zadanie
-
-// const numAlfa = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890";
-
-// const uniqueID = Math.random() * numAlfa.toString(0, 79);
 
 
-// console.log(uniqueID);
-
-
-// ------------------------------------------------------------------------------------------
-// ZADANIE 7
-
-const x = 2;
-
-
+console.log(numbers.padStart(10, "."));

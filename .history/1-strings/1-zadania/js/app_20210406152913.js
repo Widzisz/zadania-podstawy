@@ -10,7 +10,7 @@
 // console.log("Witaj" + " " + names.charAt(0).toUpperCase() + names.slice(1));
 
 // ------------------------------------------------------------------------------------------
-// ZADANIE 3 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! jaka technika zrobił by to Marci
+// ZADANIE 3 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 // const text= "Ala ma kota";
 // let text2 = text.substring(7, 10);
@@ -22,7 +22,7 @@
 // }
 
 // ------------------------------------------------------------------------------------------
-// ZADANIE 4 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! jak zrobić co druga literke toUpperCase
+// ZADANIE 4 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 // const text = "Ala ma kota";
 
@@ -47,29 +47,5 @@
 
 // ------------------------------------------------------------------------------------------
 // ZADANIE 5
-
-// let min = 10;
-// let max = 100000;
-
-// const numbers = Math.floor(Math.random() * (max - min + 1) + min);
-
-// console.log(numbers.toString().padStart(10, "."));
-
-
-// ------------------------------------------------------------------------------------------
-// ZADANIE 6 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! jak zrobić to zadanie
-
-// const numAlfa = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890";
-
-// const uniqueID = Math.random() * numAlfa.toString(0, 79);
-
-
-// console.log(uniqueID);
-
-
-// ------------------------------------------------------------------------------------------
-// ZADANIE 7
-
-const x = 2;
 
 

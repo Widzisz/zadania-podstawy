@@ -57,19 +57,14 @@
 
 
 // ------------------------------------------------------------------------------------------
-// ZADANIE 6 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! jak zrobić to zadanie
+// ZADANIE 6
 
-// const numAlfa = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890";
+const numAlfa = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890";
 
-// const uniqueID = Math.random() * numAlfa.toString(0, 79);
-
-
-// console.log(uniqueID);
+const uniqueID = Math.random() * numAlfa.toString(0, 79);
 
 
-// ------------------------------------------------------------------------------------------
-// ZADANIE 7
+console.log(uniqueID);
 
-const x = 2;
 
 
